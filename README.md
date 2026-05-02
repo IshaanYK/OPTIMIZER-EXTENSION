@@ -40,10 +40,6 @@ Then in Chrome:
 3. Click **Load unpacked**
 4. Select the `dist/` folder
 
-#### Production
-Upload the `dist/` folder as a `.zip` to the [Chrome Web Store Developer Dashboard](https://chrome.google.com/webstore/devconsole).
-
----
 
 ### 2. Get a Free API Key
 
