@@ -231,7 +231,7 @@ After building, reload the extension in `chrome://extensions` → click the ↺ 
 
 MIT — free to use, modify, and distribute.
 
-<img width="545" height="841" alt="Screenshot 2026-05-03 215006" src="https://github.com/user-attachments/assets/856801f4-1134-4e37-952d-44b2ac205265" />
+<img width="245" height="541" alt="Screenshot 2026-05-03 215006" src="https://github.com/user-attachments/assets/856801f4-1134-4e37-952d-44b2ac205265" />
 <img width="550" height="845" alt="Screenshot 2026-05-03 215030" src="https://github.com/user-attachments/assets/1f0cd2de-4194-417e-96fb-834f81fc5e0a" />
 <img width="554" height="839" alt="Screenshot 2026-05-03 215046" src="https://github.com/user-attachments/assets/0eb589a3-7bb6-418a-ac2d-1c02742e7745" />
 <img width="555" height="849" alt="Screenshot 2026-05-03 215109" src="https://github.com/user-attachments/assets/bdd65706-589f-4fcb-9c0f-654d9efb7d75" />
